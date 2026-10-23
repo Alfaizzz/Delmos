@@ -1,0 +1,6 @@
+{
+  "name": "Delmos Tech – Application Support & Maintenance",
+  "description": "Enterprise application support, 24x7 monitoring, maintenance, performance optimization, and modernization services for business-critical applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
